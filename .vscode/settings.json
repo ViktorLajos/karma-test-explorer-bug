@@ -1,0 +1,18 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "prettier.endOfLine": "auto",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "eslint.format.enable": true,
+  "liveServer.settings.root": "/dist",
+  "typescript.tsdk": "node_modules\\typescript\\lib",
+  "debug.internalConsoleOptions": "neverOpen",
+  "karmaTestExplorer.karmaConfFilePath": "karma.config.js",
+  "karmaTestExplorer.autoWatchEnabled": true,
+  "karmaTestExplorer.logLevel": "debug"
+}

@@ -1,0 +1,9 @@
+﻿node_modules
+/bin
+/lib
+/build
+debug.log
+coverage
+dist
+junit.xml
+karma-test-dist
